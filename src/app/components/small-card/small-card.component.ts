@@ -14,6 +14,5 @@ export class SmallCardComponent {
   photoConver: string = ""
 
   constructor(){
-
   }
 }
